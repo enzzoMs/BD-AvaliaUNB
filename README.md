@@ -23,9 +23,9 @@ O AvaliaUNB se trata de um aplicativo que permite aos estudantes avaliarem profe
 
 O aplicativo foi desenvolvido como projeto final da discplina de Bancos de Dados (BD) ofertada pela [Universidade de Brasília](https://www.unb.br/) durante o semestre 2023/1. 
 
-<h1 align="center">
+<p align="center">
     <img alt="Exemplo de funcionamento" src="./readme_assets/avalia_unb_exemplo.gif" />
-</h1>
+</p>
 
 ---
 
@@ -34,12 +34,12 @@ O aplicativo foi desenvolvido como projeto final da discplina de Bancos de Dados
 Primeiramente faça o clone deste repositório para o seu ambiente local ou então baixe o ZIP com todos os arquivos.
 
 ```
-git clone https://github.com/enzzoMs/BD_AvaliaUNB.git
+git clone https://github.com/enzzoMs/BD-AvaliaUNB.git
 ```
 
 ### Requisitos
 
-Para a exucação do projeto basta ter o Java JDK 11 ou superior instalado no seu sistema.
+Para a execução do projeto basta ter o Java JDK 11 ou superior instalado no seu sistema.
 
 ### Como executar
 
@@ -138,19 +138,14 @@ Arquitetura: [MVVM (Model–View–ViewModel)](https://en.wikipedia.org/wiki/Mod
 
 ## Showcase
 
-
-<h1 align="center">
-    <img alt="Tela de Login" src="./readme_assets/exemplo_login.png" />
-</h1>
-
-<h1 align="center">
-    <img alt="Tela de Perfil" src="./readme_assets/exemplo_perfil.png" />
-</h1>
-
-<h1 align="center">
+<p align="center">
     <img alt="Tela Principal" src="./readme_assets/exemplo_tela_principal.png" />
-</h1>
+</p>
 
-<h1 align="center">
+<p align="center">
+    <img alt="Tela de Perfil" src="./readme_assets/exemplo_perfil.png" />
+</p>
+
+<p align="center">
     <img alt="Tela de Avaliações" src="./readme_assets/exemplo_avaliacoes.png" />
-</h1>
+</p>
